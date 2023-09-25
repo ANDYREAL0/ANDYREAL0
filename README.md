@@ -8,5 +8,6 @@ main lang : cpp, java, cs, py, luau(fucking little)
 
 **ioctl kd dev maintance**
 
-섭어 : https://discord.gg/qpBdy7vjMh   
+섭어 : 
+https://discord.gg/qpBdy7vjMh   
 https://discord.gg/AgEaFapr3F

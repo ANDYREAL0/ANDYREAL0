@@ -1,7 +1,7 @@
 # 나는샌즈다나는샌즈다나는샌즈다나는샌즈다나는샌즈다나는샌즈다나는샌즈다나는샌즈다나는샌즈다
 현생망함ㅗㅗㅗㅗㅗㅗ
 
-Discord : `andyreal0`
+Discord : `andyreal0`</br>
 Telegram : `@ANDYREAL0`
 
 main lang : cpp, java, cs, py, luau(fucking little)

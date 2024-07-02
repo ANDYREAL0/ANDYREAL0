@@ -1,13 +1,6 @@
-# 나는샌즈다나는샌즈다나는샌즈다나는샌즈다나는샌즈다나는샌즈다나는샌즈다나는샌즈다나는샌즈다
+# LOL
 현생망함ㅗㅗㅗㅗㅗㅗ
 
-Discord : `andyreal0`</br>
-Telegram : `@ANDYREAL0`
-
-main lang : cpp, java, cs, py, luau(fucking little)
+main lang : cpp, cs, py
 
 **ioctl kd dev maintance**
-
-섭어 : 
-- https://discord.gg/qpBdy7vjMh   
-- https://discord.gg/AgEaFapr3F
